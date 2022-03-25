@@ -43,5 +43,4 @@ public class Application {
 
         System.out.println("************ Kya kr Raha Hain Bhai Tu ***********");
     }
-
 }
